@@ -1,0 +1,52 @@
+{
+  "appName": "Wondrous Works",
+  "subtitle": "Psalm 111:2-4",
+  "propertiesURL": "http://www.huttar.net/lars-kathy/school/wondrous-works/properties.json",
+  "webPageURL": "http://www.huttar.net/lars-kathy/school/wondrous-works/",
+  "imageBaseURL": "http://www.huttar.net/lars-kathy/school/wondrous-works/images",
+  "categories": [
+    {
+      "label": "Birds",
+      "thumbnail": {
+        "filename": "birds.png",
+        "attribution": "Lois Lane"
+      },
+      "works": [
+        {
+          "name": "tufted titmouse",
+          "thumbnail": {
+            "filename": "tufted-titmouse.png",
+            "attribution": "Lois Lane"
+          },
+          "images": [
+            {
+              "filename": "tt1.jpg",
+              "attribution": "xyz"
+            }
+          ],
+          "sounds": [
+            {
+              "filename": "tt1.mp3",
+              "attribution": "abc"
+            }
+          ]
+        },
+        {
+          "name": "red-bellied woodpecker",
+          "thumbnail": {
+            "filename": "red-bellied woodpecker.png",
+            "attribution": "Lois Lane"
+          },
+          "images": [],
+          "sounds": []
+        }
+      ]
+    },
+    {
+      "name": "Sea Creatures",
+      "thumbnail": "sea-creatures.png",
+      "works": [
+      ]
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+Fish:
+- striped bass
+- rainbow trout
+- king salmon
+- walleye
+- northern pike
+- ocean sunfish
+see del.icio.us/huttarl articles
